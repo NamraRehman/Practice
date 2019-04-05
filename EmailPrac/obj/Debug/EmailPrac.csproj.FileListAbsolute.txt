@@ -1,0 +1,7 @@
+C:\Users\Namra Rehman\source\repos\FYP\EmailPrac\EmailPrac\bin\Debug\EmailPrac.exe.config
+C:\Users\Namra Rehman\source\repos\FYP\EmailPrac\EmailPrac\bin\Debug\EmailPrac.exe
+C:\Users\Namra Rehman\source\repos\FYP\EmailPrac\EmailPrac\bin\Debug\EmailPrac.pdb
+C:\Users\Namra Rehman\source\repos\FYP\EmailPrac\EmailPrac\obj\Debug\EmailPrac.csprojAssemblyReference.cache
+C:\Users\Namra Rehman\source\repos\FYP\EmailPrac\EmailPrac\obj\Debug\EmailPrac.csproj.CoreCompileInputs.cache
+C:\Users\Namra Rehman\source\repos\FYP\EmailPrac\EmailPrac\obj\Debug\EmailPrac.exe
+C:\Users\Namra Rehman\source\repos\FYP\EmailPrac\EmailPrac\obj\Debug\EmailPrac.pdb
